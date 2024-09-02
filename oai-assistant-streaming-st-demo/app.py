@@ -24,7 +24,7 @@ else:
     # Create an OpenAI client.
     client = OpenAI(api_key=openai_api_key)
 
-ASSISTANT_ID = "asst_q9HBwNTS9qcHq4eHUTmJH0jH"
+ASSISTANT_ID = "asst_ZhPiBdfqyUu41MXbzUJMKfGo"
 
 # Initialise the OpenAI client, and retrieve the assistant
 client = OpenAI(api_key=openai_api_key)
