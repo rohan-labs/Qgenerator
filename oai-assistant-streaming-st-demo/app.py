@@ -128,7 +128,7 @@ def main():
         perplexity_chat_container = st.container()
 
         # Input field below chat history
-        user_input = st.chat_input("Type your message for Perplexity AI...", key="perplexity_input")
+        user_input = st.chat_input("Type your message for Preclinify AI...", key="perplexity_input")
 
         # Display chat history in the container
         with perplexity_chat_container:
